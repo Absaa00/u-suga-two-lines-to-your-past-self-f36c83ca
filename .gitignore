@@ -1,0 +1,12 @@
+# Past-self entry — local run artefacts only
+__pycache__/
+*.pyc
+*.pyo
+/output/
+entry.txt
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.venv/
+venv/
